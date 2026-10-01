@@ -12,8 +12,6 @@
 | **Module** | Module 4 – Monitoring and Auditing Security Controls |
 | **Role** | Security Control Assurance Analyst |
 | **Assessment Period** | 26 September – 02 October 2026 |
-| **Report Date** | 01 October 2026 |
-| **Environment** | ICDFA authorised Linux practice environment |
 
 > [!IMPORTANT]
 > **Evidence authenticity:** This report uses only evidence captured from the authorised lab environment. Missing logs, unavailable services and failed assessment attempts are reported as control-assurance findings; no audit events, Lynis findings, timestamps or successful control results have been fabricated.
