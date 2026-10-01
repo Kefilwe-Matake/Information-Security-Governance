@@ -384,7 +384,7 @@ The screenshots below are preserved as the technical evidence captured during th
 
 ### A1.1 Initial `auditd` Status / systemd Limitation
 
-![auditd status showing systemd unavailable](assets/evidence/A1-01-auditd-status-systemd-unavailable.png)
+![auditd status showing systemd unavailable](assets/evidence/appendix-a1-evidence-01.png)
 
 ### A1.2 Package Installation and Service Start/Enable Attempt
 
