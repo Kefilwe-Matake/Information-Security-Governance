@@ -388,35 +388,35 @@ The screenshots below are preserved as the technical evidence captured during th
 
 ### A1.2 Package Installation and Service Start/Enable Attempt
 
-![auditd install and service start attempt](assets/evidence/A1-02-auditd-install-start-enable-attempt.png)
+![auditd install and service start attempt](assets/evidence/appendix-a1-evidence-02.png)
 
 ### A1.3 Service Status Recheck
 
-![auditd service recheck](assets/evidence/A1-03-auditd-service-recheck.png)
+![auditd service recheck](assets/evidence/appendix-a1-evidence-03.png)
 
 ### A1.4 Custom Audit Rules
 
-![custom audit rules in rules file](assets/evidence/A1-04-custom-audit-rules.png)
+![custom audit rules in rules file](assets/evidence/appendix-a1-evidence-04.png)
 
 ### A1.5 Rule Loading / Restart Attempt
 
-![audit rule load failure](assets/evidence/A1-05-auditctl-load-rules-failure.png)
+![audit rule load failure](assets/evidence/appendix-a1-evidence-05.png)
 
 ### A1.6 Benign `/etc/passwd` Open
 
-![passwd opened without saving](assets/evidence/A1-06-passwd-benign-open.png)
+![passwd opened without saving](assets/evidence/appendix-a1-evidence-06.png)
 
 ### A1.7 Benign Command Activity
 
-![benign ls tmp activity](assets/evidence/A1-07-benign-command-activity.png)
+![benign ls tmp activity](assets/evidence/appendix-a1-evidence-07.png)
 
 ### A1.8 `ausearch` Audit-Log Result
 
-![ausearch missing audit log](assets/evidence/A1-08-ausearch-audit-log-missing.png)
+![ausearch missing audit log](assets/evidence/appendix-a1-evidence-08.png)
 
 ### A1.9 `aureport` Audit-Log Result
 
-![aureport missing audit log](assets/evidence/A1-09-aureport-audit-log-missing.png)
+![aureport missing audit log](assets/evidence/appendix-a1-evidence-09.png)
 
 ---
 
@@ -424,19 +424,19 @@ The screenshots below are preserved as the technical evidence captured during th
 
 ### A2.1 `journalctl` Review
 
-![journalctl no journal files](assets/evidence/A2-01-journalctl-no-journal-files.png)
+![journalctl no journal files](assets/evidence/appendix-a2-evidence-01.png)
 
 ### A2.2 Authentication Log Review
 
-![auth log not present](assets/evidence/A2-02-auth-log-not-present.png)
+![auth log not present](assets/evidence/appendix-a2-evidence-02.png)
 
 ### A2.3 System Log Review
 
-![syslog not present](assets/evidence/A2-03-syslog-not-present.png)
+![syslog not present](assets/evidence/appendix-a2-evidence-03.png)
 
 ### A2.4 Journal Recheck
 
-![journalctl recheck showing no files](assets/evidence/A2-04-journalctl-confirmation-no-files.png)
+![journalctl recheck showing no files](assets/evidence/appendix-a2-evidence-04.png)
 
 ---
 
@@ -444,15 +444,15 @@ The screenshots below are preserved as the technical evidence captured during th
 
 ### A3.1 Lynis Installation / Access Attempt
 
-![Lynis installation attempt](assets/evidence/A3-01-lynis-installation-attempt.png)
+![Lynis installation attempt](assets/evidence/appendix-a3-evidence-01.png)
 
 ### A3.2 Package-Based Lynis Audit Attempt
 
-![Lynis command not found](assets/evidence/A3-02-lynis-command-not-found.png)
+![Lynis command not found](assets/evidence/appendix-a3-evidence-02.png)
 
 ### A3.3 Source-Directory Lynis Audit Attempt
 
-![Lynis source command not found](assets/evidence/A3-03-lynis-source-command-not-found.png)
+![Lynis source command not found](assets/evidence/appendix-a3-evidence-03.png)
 
 ---
 
