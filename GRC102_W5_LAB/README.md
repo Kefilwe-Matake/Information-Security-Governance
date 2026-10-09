@@ -7,9 +7,6 @@
 A practical security governance simulation exploring how technical weaknesses can become governance failures, how security controls should be implemented and verified, and how security posture should be communicated to executives and the Board.
 
 The scenario incorporates governance lessons from the 2017 Equifax data breach.
-
-> **Security Notice:** This is an authorised, isolated educational simulation. Vulnerable components are included for laboratory purposes only. Do not expose the environment to public networks, use production data, or test systems without explicit authorisation.
-
 ---
 
 ## Author and Project Details
@@ -257,7 +254,3 @@ The author remains responsible for understanding, reviewing, and validating the 
 
 ---
 
-**Author:** Kefilwe Matake  
-**Course:** GRC102 – Information Security Governance  
-**Institution:** International Cybersecurity and Digital Forensics Academy (ICDFA)  
-**Project:** Week 5 Practical Laboratory – Simulating and Analysing Security Governance Scenarios
